@@ -1,0 +1,3852 @@
+[
+  {
+    "id": "6a9SXPsQwYKPmdYj",
+    "name": "Corridor, 3 ways",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/corridor-3-ways.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 7200,
+        "y": 5800,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 4,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "8FIopBP9GWVqv7Wp",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "bAkjIQGv1gs9nn4s"
+      }
+    ],
+    "sort": 800000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/corridor-3-ways.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            6500,
+            7500,
+            6200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "8FIopBP9GWVqv7Wp",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "3YvRCyqOV5U4LXJy"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            6200,
+            7200,
+            6200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "8FIopBP9GWVqv7Wp",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "tv6iGaUf5ajsd5gV"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7200,
+            6100,
+            7900,
+            6100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "8FIopBP9GWVqv7Wp",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "OzyMf8sePA0UiDIp"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7900,
+            6200,
+            7600,
+            6200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "8FIopBP9GWVqv7Wp",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "g0dtlwRPGl9QClCI"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7600,
+            6200,
+            7600,
+            6500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "8FIopBP9GWVqv7Wp",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "d7hKyTjfh8w7EYJF"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "9ws3QiEPgqbOVne1",
+    "name": "Corridor, 2 ways, straight",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/corridor-2-ways-straight.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 7200,
+        "y": 3000,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 2,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "y4ewWHBCBweqhBaM",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "hUJV6rkGYTIxx3Lj"
+      }
+    ],
+    "sort": 600000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/corridor-2-ways-straight.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            3000,
+            7500,
+            3700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "y4ewWHBCBweqhBaM",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "DCslUer1YnLZVd9I"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7600,
+            3700,
+            7600,
+            3000
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "y4ewWHBCBweqhBaM",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "TJV9BTNJG7qr0LHL"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "L5dDK4qyQ476Yvw8",
+    "name": "Corridor, 4 ways",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/corridor-4-ways.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 7200,
+        "y": 7200,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 5,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "lA3mAwp3uIAofZCw",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "ndqv28lDrFL4ZDCZ"
+      }
+    ],
+    "sort": 1000000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/corridor-4-ways.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7200,
+            7500,
+            7500,
+            7500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "7LNJQ1G3ipVhxI24"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            7500,
+            7500,
+            7200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "zqwyGHK1ZY2aEE8M"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7600,
+            7200,
+            7600,
+            7500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "1rsyBM3YdMoKqDH4"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7600,
+            7500,
+            7900,
+            7500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "y58JNaJZmjjAwV99"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7900,
+            7600,
+            7600,
+            7600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "JGTBhEu6jk01y6Rk"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7600,
+            7600,
+            7600,
+            7900
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "CSgQQQKBquN3bQAY"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            7900,
+            7500,
+            7600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "hn2XfRj0miL44xbP"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            7600,
+            7200,
+            7600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "lA3mAwp3uIAofZCw",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "mkcLhps8doNEO3ZM"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "LG1dq2iDlmzrOMNF",
+    "name": "Room, 2 doors, straight",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/room-2-doors-straight.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 5800,
+        "y": 3000,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 7,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "if40kADXdyeROPY2",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "8AF62FEMiD31zitQ"
+      }
+    ],
+    "sort": 200000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/room-2-doors-straight.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            3700,
+            6100,
+            3600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "4UY5WIN1WWil3pIA"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            3600,
+            5900,
+            3600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "sgVlYVpkpGbO6wdb"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            3600,
+            5900,
+            3100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "JHHxsmUHs81HsaHp"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            3100,
+            6100,
+            3100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "WTNckGYqGqeqDJ2W"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            3100,
+            6100,
+            3000
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "SNaBBDIKmV8gqR6X"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            3000,
+            6200,
+            3100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "qI4WDQgwtPzJ3VJN"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            3100,
+            6400,
+            3100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "cUxx3HC2xlhESKfE"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            3100,
+            6400,
+            3600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "Bcko63gYdJyTRy5I"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            3600,
+            6200,
+            3600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "NGklD7TtpVTJe9Qz"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            3600,
+            6200,
+            3700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "uBSJ4i4gelwbYyDO"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6200,
+            3600,
+            6100,
+            3600
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "7ylVnDUE2eOUTWD9"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6200,
+            3100,
+            6100,
+            3100
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "if40kADXdyeROPY2",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "87CmGy8dJwXbUfON"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "PdWZIuawvZqaQici",
+    "name": "Room, 2 doors, turn",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/room-2-doors-turn.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 5800,
+        "y": 4400,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 8,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "UCdBaGV4Gcf8jgZ4",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "9YEN9B8F4gwvxf9l"
+      }
+    ],
+    "sort": 300000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/room-2-doors-turn.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            5100,
+            6100,
+            5000
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "pOWBn0PcNOTX3DBX"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            5000,
+            5900,
+            5000
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "p1pPnf3YJXBw8JKh"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            5000,
+            5900,
+            4500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "9mVMKt1RFKp6hG4k"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            4500,
+            6400,
+            4500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "QZOTr7pq99VqexKv"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            4500,
+            6400,
+            4700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "F19gJdcYJe39wuhl"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            4700,
+            6500,
+            4700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "Rp7dt3pGuhwNqNh5"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            5000,
+            6200,
+            5000
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "cIZyEMEoc1NtMkEX"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            5000,
+            6200,
+            5100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "nvyEWAeiQxR4cedc"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6200,
+            5000,
+            6100,
+            5000
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "rwxLbJmUYNJK5iq2"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            4800,
+            6400,
+            5000
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "Pfbx2JIMuPcCaky8"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6500,
+            4800,
+            6400,
+            4800
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "StQNAtRAXCNXvFol"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6400,
+            4800,
+            6400,
+            4700
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "UCdBaGV4Gcf8jgZ4",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "Zfh0Ptc6rxcTbzEw"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "Qcqt6deGcVfVn2SM",
+    "name": "Corridor, 1 way, dead end",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/corridor-1-way-dead-end.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 7200,
+        "y": 1600,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 1,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "J66aC3n8l2HzGKoC",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "c4Xp4AtEjUYbljYl"
+      }
+    ],
+    "sort": 500000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/corridor-1-way-dead-end.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            2300,
+            7500,
+            1900
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "J66aC3n8l2HzGKoC",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "d4qL4LK8B6KNGBB3"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            1900,
+            7600,
+            1900
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "J66aC3n8l2HzGKoC",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "UweLss7aNHdMAVQk"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7600,
+            1900,
+            7600,
+            2300
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "J66aC3n8l2HzGKoC",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "RLsHpVgu4bdY0w7b"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "QxsYMQn0whm93moA",
+    "name": "Room, 3 doors",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/room-3-doors.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 5800,
+        "y": 5800,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 9,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "06n9YHpd22aAOr8g",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "cb0JqAUlDhL6mPtd"
+      }
+    ],
+    "sort": 400000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/room-3-doors.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            6500,
+            6100,
+            6400
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "BoZSNQ9xVtb0Z6a6"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            6400,
+            5900,
+            6400
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "oQD2vr36QfpGZ97v"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            6400,
+            5900,
+            6200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "LtRYGByeLRE1vxIE"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            6200,
+            5800,
+            6200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "zQQtzFXmNMTGrCKu"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            6100,
+            5900,
+            5900
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "uRFOWvTPaj59SrIj"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            5900,
+            6400,
+            6100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "MxZYe7NnNk58NLWH"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            6100,
+            6500,
+            6100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "P4VIdZ5hWwVSuSWn"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6500,
+            6200,
+            6400,
+            6200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "bBBpAPOsbvsDyNCb"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            6400,
+            6200,
+            6500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "ugbNbvdCZs38BaQK"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            6400,
+            6200,
+            6400
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "x0VypHRYbJz6wsbs"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5800,
+            6100,
+            5900,
+            6100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "WoHDOavHXnDj5FKN"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            5900,
+            6200,
+            5900,
+            6100
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "klHJW8UrfitSpKWJ"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6400,
+            6200,
+            6400,
+            6100
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "CkrIojfl5aG2ETiF"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            6200,
+            6400,
+            6400
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "CMqviyaBMwkOEuvd"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6100,
+            6400,
+            6200,
+            6400
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "3xKH4CbQ6C6kiBZ0"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            5900,
+            6400,
+            5900
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "06n9YHpd22aAOr8g",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "kyPi595DQMKFW4HK"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "UsSy0aphNUq32Bkb",
+    "name": "Corridor, 2 ways, turn",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/corridor-2-ways-turn.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 7200,
+        "y": 4400,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 3,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "pLwp6z22WOWt60z7",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "kFvOdDiK8AuKFXWh"
+      }
+    ],
+    "sort": 700000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/corridor-2-ways-turn.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            5100,
+            7500,
+            4700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "pLwp6z22WOWt60z7",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "Ngyv8sDipI7jGVyG"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7500,
+            4700,
+            7900,
+            4700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "pLwp6z22WOWt60z7",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "XWEy5TOAZeg1Bm3p"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7900,
+            4800,
+            7600,
+            4800
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "pLwp6z22WOWt60z7",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "f5uUYw3xrpgSnndZ"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            7600,
+            4800,
+            7600,
+            5100
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "pLwp6z22WOWt60z7",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "eFkK8eNipqa9epjn"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "cGB3JFbtUiPPno13",
+    "name": "Room, 4 doors",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/room-4-doors.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 5800,
+        "y": 7200,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 10,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "MyPTUCz7sMBQCNGN",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "qsIhaLjw4VlRVoK1"
+      }
+    ],
+    "sort": 900000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/room-4-doors.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5800,
+            7500,
+            5900,
+            7500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "ZNS22bKq7BPyMDh2"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            7500,
+            5900,
+            7300
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "3AP6WHHIYbFokEyA"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            7300,
+            6100,
+            7300
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "OgESmwj5SpKTxMlb"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            7300,
+            6100,
+            7200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "O7LX5J0rAD5tgff3"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            7200,
+            6200,
+            7300
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "8NsdDc8RhsI3Otex"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            7300,
+            6400,
+            7300
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "v4zCfztpT3aBVt7u"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            7300,
+            6400,
+            7500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "UKWaTWX504Ai6r2i"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            7900,
+            6100,
+            7800
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "xqGaTRch1AGL02dT"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            7800,
+            5900,
+            7800
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "aBZXDNVTFx8IFjpg"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            7800,
+            5900,
+            7600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "gK3Z3GpgTrXrkz0F"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            7600,
+            5800,
+            7600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "5QlqtAKFh0jupNme"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            5900,
+            7500,
+            5900,
+            7600
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "jLdvSnrdSXexf7XC"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6100,
+            7300,
+            6200,
+            7300
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "zVOJlZ2ubXs9kIwf"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            7500,
+            6500,
+            7500
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "za6Wsj6KG5YAAata"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6400,
+            7500,
+            6400,
+            7600
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "t1Vzfv2WxDcX5l59"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6500,
+            7600,
+            6400,
+            7600
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "OZQ3iUhpkkD6wstF"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            7800,
+            6200,
+            7800
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "XasdR1uWFpF0fyzH"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            7800,
+            6200,
+            7900
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "tgMMQdtDHxcHwiIc"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6100,
+            7800,
+            6200,
+            7800
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "u0uYF0iPZOGPhbxA"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            7600,
+            6400,
+            7800
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "MyPTUCz7sMBQCNGN",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "4ZpVlB3gpbVtfGEK"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  },
+  {
+    "id": "sVor6iQ813ZOwwpK",
+    "name": "Room, 1 door, dead end",
+    "data": [
+      {
+        "texture": {
+          "src": "modules/conceptual-dungeon/tiles/room-1-door-dead-end.webp",
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "offsetX": 0,
+          "offsetY": 0,
+          "fit": "fill",
+          "scaleX": 1,
+          "scaleY": 1,
+          "rotation": 0,
+          "tint": "#ffffff",
+          "alphaThreshold": 0.75
+        },
+        "x": 5800,
+        "y": 1600,
+        "width": 700,
+        "height": 700,
+        "elevation": 0,
+        "sort": 6,
+        "occlusion": {
+          "mode": 0,
+          "alpha": 0
+        },
+        "rotation": 0,
+        "alpha": 1,
+        "hidden": false,
+        "locked": false,
+        "restrictions": {
+          "light": false,
+          "weather": false
+        },
+        "video": {
+          "loop": true,
+          "autoplay": true,
+          "volume": 0
+        },
+        "flags": {
+          "multi-token-edit": {
+            "links": [
+              {
+                "id": "EXQKAksePCJhbsbf",
+                "type": 0
+              }
+            ]
+          }
+        },
+        "_id": "TDO0DAkqXiLP7nG3"
+      }
+    ],
+    "sort": 100000,
+    "folder": null,
+    "uuid": null,
+    "documentName": "Tile",
+    "addSubtract": [],
+    "randomize": [],
+    "img": "modules/conceptual-dungeon/tiles/room-1-door-dead-end.webp",
+    "gridSize": 100,
+    "preSpawnScript": "",
+    "postSpawnScript": "",
+    "spawnRandom": false,
+    "attached": [
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            2300,
+            6100,
+            2200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "FYTPCmjZznbZGjCj"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6100,
+            2200,
+            5900,
+            2200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "ISil2o4lVzBjWbyI"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            2200,
+            5900,
+            1700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "BLR3vbpHGpF18TcD"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            1700,
+            6400,
+            2200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "G9M1mkwYyEtBsb3n"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            5900,
+            1700,
+            6400,
+            1700
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "0xxgOJusGuwrDcsw"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6200,
+            2200,
+            6200,
+            2300
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "Aw8x6jgHebrAu7A7"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "c": [
+            6400,
+            2200,
+            6200,
+            2200
+          ],
+          "dir": 0,
+          "door": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "YfH18K5WOVEN8Ils"
+        }
+      },
+      {
+        "documentName": "Wall",
+        "data": {
+          "light": 20,
+          "sight": 20,
+          "sound": 20,
+          "move": 20,
+          "door": 1,
+          "c": [
+            6100,
+            2200,
+            6200,
+            2200
+          ],
+          "dir": 0,
+          "ds": 0,
+          "threshold": {
+            "light": null,
+            "sight": null,
+            "sound": null,
+            "attenuation": false
+          },
+          "flags": {
+            "multi-token-edit": {
+              "links": [
+                {
+                  "id": "EXQKAksePCJhbsbf",
+                  "type": 0
+                }
+              ]
+            }
+          },
+          "_id": "8unaTCL9mPjDymy3"
+        }
+      }
+    ],
+    "tags": [],
+    "preserveLinks": false
+  }
+]

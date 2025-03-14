@@ -1,0 +1,50 @@
+{
+  "id": "conceptual-dungeon",
+  "title": "Conceptual Dungeon",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This module contain a series of tiles that can put together on a background. This way, one can easily create a \"conceptual dungeons\". Each 5x5 tile is meant to represent a meaningful chunk of content. \n\nPerfect for solo play, but also when the players decide to explore someplace you do not have a map for (yet)!",
+  "authors": [
+    {
+      "name": "Jordan Raymond",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "background-maps",
+      "label": "Background Maps",
+      "path": "packs/background-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "map-tiles",
+      "label": "Conceptual Dungeon Tiles",
+      "path": "packs/map-tiles",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "multi-token-edit",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/JordanRR/conceptual-dungeon/blob/main/module.json",
+  "manifest": "",
+  "download":  "" 
+}
