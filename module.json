@@ -6,10 +6,12 @@
     "minimum": "12",
     "verified": "12"
   },
-  "description": "This module contain a series of tiles that can put together on a background. This way, one can easily create a \"conceptual dungeons\". Each 5x5 tile is meant to represent a meaningful chunk of content. \n\nPerfect for solo play, but also when the players decide to explore someplace you do not have a map for (yet)!",
+  "description": "This module contain a series of tiles and a scene to place them on. It all works like geomorphs. Each tile is fully walled, thanks to the Mass Edit module by Baileywiki. The tiles can be used without it but won’t have walls.\nThis is meant to build a \"conceptual dungeons\", where each tile is meant to symbolize a meaningful chunk of content, not visually represent it. Right now, there are “rooms” with 1 to 4 “doors” and “corridors” with 1 to 4 “ways”. I may add new tiles in the future.\nThis module is perfect for solo play. It is also a great tool for GMs, giving them a way to structure their players' exploration and track their progress using fog of war.\n*The walled tiled are made possible by the Mass Edit module. \n\nThank you!\nJordan, Abacus Tabletop Games\n---\nTiles built with Dungeondraft and the following packs: \n- neovatar's \"oldschool\" map pack (oldschool-neovatar) (c) 2023 by Thomas Seliger (neovatar). Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) https://github.com/neovatar/oldschool-neovatar",
   "authors": [
     {
       "name": "Jordan Raymond",
+      "email": "abacus.tabletop.games@gmail.com",
+      "discord": "Jordan#9033",
       "flags": {}
     }
   ],
@@ -42,9 +44,14 @@
         "type": "module",
         "compatibility": {}
       }
+    ],
+    "recommends": [
+      {
+        "id": "multi-token-edit",
+        "type": "module",
+        "compatibility": {}
+      }
     ]
   },
-  "url": "https://github.com/JordanRR/conceptual-dungeon/blob/main/module.json",
-  "manifest": "https://github.com/JordanRR/conceptual-dungeon/releases/download/2025-03-13/module.json",
-  "download":  "https://github.com/JordanRR/conceptual-dungeon/releases/download/2025-03-13/conceptual-dungeon.zip" 
+  "url": "https://github.com/JordanRR/conceptual-dungeon/blob/main/module.json"
 }
