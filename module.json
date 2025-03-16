@@ -53,5 +53,7 @@
       }
     ]
   },
-  "url": "https://github.com/JordanRR/conceptual-dungeon/blob/main/module.json"
+  "url": "https://github.com/JordanRR/conceptual-dungeon/blob/main/module.json",
+  "manifest": "https://github.com/JordanRR/conceptual-dungeon/releases/download/2025-03-16/module.json",
+  "download":  "https://github.com/JordanRR/conceptual-dungeon/releases/download/2025-03-16/conceptual-dungeon.zip" 
 }
