@@ -1,5 +1,7 @@
 ![alt text](image.png)
 
+Install manually by using this manifest url: https://github.com/JordanRR/conceptual-dungeon/releases/download/2025-03-16/module.json
+
 This module contain a series of tiles and a scene to place them on. It all works like geomorphs. Each tile is fully walled, thanks to the Mass Edit module by Baileywiki. The tiles can be used without it but won’t have walls.
 
 This is meant to build a "conceptual dungeons", where each tile is meant to symbolize a meaningful chunk of content, not visually represent it. Right now, there are “rooms” with 1 to 4 “doors” and “corridors” with 1 to 4 “ways”. I may add new tiles in the future.
