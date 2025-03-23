@@ -18,9 +18,10 @@ Jordan, Abacus Tabletop Games
 
 ## Contact me
 
-[Ko-fi](https://ko-fi.com/jordan_abacus): If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus  
-[Blog](https://abacustabletopgames.bearblog.dev/): https://abacustabletopgames.bearblog.dev/  
-[Email](abacus.tabletop.games@gmail.com): abacus.tabletop.games@gmail.com
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
+
+[Blog](https://abacustabletopgames.bearblog.dev/)
+[Email](abacus.tabletop.games@gmail.com)
 
 ## Attributions, etc.
 
