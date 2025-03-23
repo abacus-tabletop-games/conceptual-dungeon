@@ -19,14 +19,14 @@ Jordan — Abacus Tabletop Games
 ## Required and Recommended Modules
 
 ### Recommended
+
 * [Baileywiki Mass Edit](https://foundryvtt.com/packages/multi-token-edit). Without it, the tiles can be used like any regular tiles, but they won't have walls.
 
 ## Jordan — Abacus Tabletop Games
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
 
-[Website](https://abacustabletopgames.bearblog.dev/)
-
+[Website](https://abacustabletopgames.bearblog.dev/)  
 [Email](abacus.tabletop.games@gmail.com)
 
 ## Attributions, etc.
