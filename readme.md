@@ -1,8 +1,8 @@
-# Conceptual Dungeon Foundry VTT module
+# Conceptual Dungeon Foundry VTT Module
 
 ## How to install
 
-Install manually by using this manifest url: https://github.com/JordanRR/conceptual-dungeon/releases/latest/download/module.json
+Install manually the latest build by pasting this manifest url: https://github.com/JordanRR/conceptual-dungeon/releases/latest/download/module.json
 
 ![screenshot](image.png)
 
@@ -16,15 +16,14 @@ Thank you!
 
 Jordan, Abacus Tabletop Games
 
-
 ## Contact me
 
-If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus
-
-Blog: https://abacustabletopgames.bearblog.dev/  
-Email me: abacus.tabletop.games@gmail.com
+[Ko-fi](https://ko-fi.com/jordan_abacus): If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus  
+[Blog](https://abacustabletopgames.bearblog.dev/): https://abacustabletopgames.bearblog.dev/  
+[Email](abacus.tabletop.games@gmail.com): abacus.tabletop.games@gmail.com
 
 ## Attributions, etc.
 
 Tiles built with Dungeondraft and the following packs: 
-- neovatar's "oldschool" map pack (oldschool-neovatar) (c) 2023 by Thomas Seliger (neovatar). Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) https://github.com/neovatar/oldschool-neovatar
+
+* neovatar's "oldschool" [map pack](https://github.com/neovatar/oldschool-neovatar) (oldschool-neovatar) (c) 2023 by Thomas Seliger (neovatar). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
