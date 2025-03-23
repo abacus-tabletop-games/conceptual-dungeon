@@ -1,3 +1,5 @@
+# Conceptual Dungeon Foundry VTT module
+
 ![alt text](image.png)
 
 Install manually by using this manifest url: https://github.com/JordanRR/conceptual-dungeon/releases/latest/download/module.json
