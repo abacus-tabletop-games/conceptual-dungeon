@@ -3,6 +3,7 @@
 ![alt text](image.png)
 
 Install manually by using this manifest url: https://github.com/JordanRR/conceptual-dungeon/releases/latest/download/module.json
+
 If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus
 
 This module contain a series of tiles and a scene to place them on. It all works like geomorphs. Each tile is fully walled, thanks to the Mass Edit module by Baileywiki. The tiles can be used without it but won’t have walls.
