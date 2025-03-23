@@ -2,7 +2,7 @@
 
 ## How to install
 
-Install manually the latest build by pasting this manifest url: https://github.com/JordanRR/conceptual-dungeon/releases/latest/download/module.json
+Install manually the latest build by pasting this manifest url: https://github.com/Jordan-Abacus/conceptual-dungeon/releases/latest/download/module.json
 
 ![screenshot](image.png)
 
