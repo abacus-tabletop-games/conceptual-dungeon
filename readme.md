@@ -14,13 +14,18 @@ This module is perfect for solo play. It is also a great tool for GMs, giving th
 
 Thank you!
 
-Jordan, Abacus Tabletop Games
+Jordan — Abacus Tabletop Games
 
-## Contact me
+## Required and Recommended Modules
+
+### Recommended
+* [Baileywiki Mass Edit](https://foundryvtt.com/packages/multi-token-edit). Without it, the tiles can be used like any regular tiles, but they won't have walls.
+
+## Jordan — Abacus Tabletop Games
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
 
-[Blog](https://abacustabletopgames.bearblog.dev/)
+[Website](https://abacustabletopgames.bearblog.dev/)
 
 [Email](abacus.tabletop.games@gmail.com)
 
