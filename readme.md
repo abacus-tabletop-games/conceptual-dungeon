@@ -1,10 +1,10 @@
 # Conceptual Dungeon Foundry VTT module
 
-![alt text](image.png)
+##How to install
 
 Install manually by using this manifest url: https://github.com/JordanRR/conceptual-dungeon/releases/latest/download/module.json
 
-If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus
+![screenshot](image.png)
 
 This module contain a series of tiles and a scene to place them on. It all works like geomorphs. Each tile is fully walled, thanks to the Mass Edit module by Baileywiki. The tiles can be used without it but won’t have walls.
 
@@ -17,6 +17,14 @@ Thank you!
 Jordan, Abacus Tabletop Games
 
 
----
+##Contact me
+
+If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus
+
+Blog: https://abacustabletopgames.bearblog.dev/  
+Email me: abacus.tabletop.games@gmail.com
+
+##Attributions, etc.
+
 Tiles built with Dungeondraft and the following packs: 
 - neovatar's "oldschool" map pack (oldschool-neovatar) (c) 2023 by Thomas Seliger (neovatar). Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) https://github.com/neovatar/oldschool-neovatar
