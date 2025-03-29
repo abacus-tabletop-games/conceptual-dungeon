@@ -2,7 +2,8 @@
 
 ## How to install
 
-Install manually the latest build by pasting this manifest url: https://github.com/Jordan-Abacus/conceptual-dungeon/releases/latest/download/module.json
+* Search for the module in Foundry's *Add-on modules* tab.
+* Install manually with this manifest url: https://github.com/Jordan-Abacus/conceptual-dungeon/releases/latest/download/module.json
 
 ![screenshot](image.png)
 
@@ -14,23 +15,18 @@ This module is perfect for solo play. It is also a great tool for GMs, giving th
 
 Thank you!
 
-Jordan — Abacus Tabletop Games
+Jordan — [Abacus Tabletop Games](https://abacustabletopgames.bearblog.dev/)
 
-## Required and Recommended Modules
+## Dependencies
 
 ### Recommended
 
 * [Baileywiki Mass Edit](https://foundryvtt.com/packages/multi-token-edit). Without it, the tiles can be used like any regular tiles, but they won't have walls.
 
-## Jordan — Abacus Tabletop Games
+## Attributions and Thanks
+
+* Tiles built with Dungeondraft and neovatar's "oldschool" [map pack](https://github.com/neovatar/oldschool-neovatar) (oldschool-neovatar) (c) 2023 by Thomas Seliger (neovatar). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to pay me a coffee, I thank you!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
-
-[Website](https://abacustabletopgames.bearblog.dev/)  
-[Email](abacus.tabletop.games@gmail.com)
-
-## Attributions, etc.
-
-Tiles built with Dungeondraft and the following packs: 
-
-* neovatar's "oldschool" [map pack](https://github.com/neovatar/oldschool-neovatar) (oldschool-neovatar) (c) 2023 by Thomas Seliger (neovatar). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
