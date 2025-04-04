@@ -27,6 +27,6 @@ Jordan — [Abacus Tabletop Games](https://abacustabletopgames.bearblog.dev/)
 
 * Tiles built with Dungeondraft and neovatar's "oldschool" [map pack](https://github.com/neovatar/oldschool-neovatar) (oldschool-neovatar) (c) 2023 by Thomas Seliger (neovatar). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to [pay me a coffee](tab:https://ko-fi.com/abacus_tabletop_games), I thank you!
+You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to [pay me a coffee](https://ko-fi.com/abacus_tabletop_games), I thank you!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
